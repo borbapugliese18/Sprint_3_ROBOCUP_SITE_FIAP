@@ -639,13 +639,25 @@
     }
     
     .primary_navigation li ul{
-        display: none;
+        position: absolute;
+        width: 190px;
+        z-index: 1000;
+        height: 0px;
+        overflow: hidden;
+        transition: height 0.3s ease-in-out;
+        list-style: none;
     }
 
+    .primary_navigation li:hover ul, .primary_navigation li a:hover ul{
+        height: 150px;
+    }
+    
+    .primary_navigation li:hover .quem_somos_ul, .primary_navigation li a:hover ul{
+        height: 80px;
+    }
 
-    .primary_navigation li .fa-caret-down{
-        display: none;
-        color: red;
+    .primary_navigation li .quem_somos_ul{
+        width: 130px;
     }
     
     
