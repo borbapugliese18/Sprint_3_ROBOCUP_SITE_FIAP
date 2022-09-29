@@ -1,0 +1,53 @@
+body{
+    background: linear-gradient(135deg, rgb(82, 80, 192) 0%, rgb(15,15,109) 59%, rgb(15,15,109) 100%)!important;
+}
+
+/*-----------------------------------------------------------------------------------------------------------------------------*/
+/*                                                    MAIN                                                                     */
+/* Carrosel */
+.fotos_netuno{
+    height: 100%;
+    width: 100%;
+    display: block;
+    border-radius: 1px;
+    border: 3px solid #fff;
+    
+}
+
+.carrosel_fotos{
+    background-color: #0c0c0c00;
+}
+/*--------- */
+
+main .parag_netuno{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fff;
+}
+
+main h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(228, 153, 41);
+}
+
+.parag_netuno span{
+    color: rgb(228, 153, 41);
+}
+
+.images_netuno img{
+    border-radius: 50%;
+    border: 3px solid #fff;
+    box-shadow: rgba(0, 0, 0, 0.801) 0px 10px 15px;
+}
+
+.videos div iframe{
+    border-radius: 30px;
+    border: 3px solid #fff;
+    box-shadow: rgba(0, 0, 0, 0.801) 0px 10px 15px;
+}
+
+.videos h1{
+    margin-bottom: 4rem;
+    text-align: center;
+    font-size: 5rem;
+}
+/*-----------------------------------------------------------------------------------------------------------------------------*/

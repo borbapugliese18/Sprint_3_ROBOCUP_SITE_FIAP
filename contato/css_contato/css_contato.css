@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(135deg, rgb(82, 80, 192) 0%, rgb(15,15,109) 59%, rgb(15,15,109) 100%);
+    /* 
+    OUTRO BACKGROUND
+        min-height: 0vh;
+        background: linear-gradient(
+          to top,
+          #fff 0%,
+          #fff 60%,
+          rgb(27, 27, 175) 50%,
+          rgb(27, 27, 175) 100%
+        );
+
+    */
+}
+
+.main_contact_information{
+    background-color: rgb(228, 153, 41);
+}
+
+.main_contact_form{
+    background-color: #fff;
+}
+
+main h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
+
+main{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: rgba(0, 0, 0, 0.507) 0px 3px 8px;
+}
+
+main .main_contact_information span, form label{
+    color: rgb(75, 75, 75);
+}
+
+
+

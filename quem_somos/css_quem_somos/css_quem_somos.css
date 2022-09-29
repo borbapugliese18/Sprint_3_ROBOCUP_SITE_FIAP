@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(135deg, rgb(82, 80, 192) 0%, rgb(15,15,109) 59%, rgb(15,15,109) 100%)!important;
+}
+
+main .sobre_nos .parag, .eventos .parag{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fff;
+    text-align: justify;
+}
+
+main .sobre_nos .titulo, .eventos .titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(228, 153, 41);
+}

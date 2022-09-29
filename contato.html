@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css_index/style.css">
+    <link rel="stylesheet" href="css_index/responsive.css">
+    <link rel="stylesheet" href="contato/css_contato/css_contato.css">
+    <link rel="stylesheet" href="contato/css_contato/responsive_contato.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;display=swap" rel="stylesheet">
+    <title>Sons Of Neptune</title>
+    <script src="js_index/script_index.js" defer></script>
+</head>
+<body>
+    <header class="primary_header flex">
+        <div>
+             <a href="index.html"><img src="img_index/Logooficial.png" alt="Sons_of_Neptune_Logo" class="logo"></a>
+        </div> 
+        <button class="mobile_nav_toggle" aria-controls="primary_navigation" aria-expanded="false"><span class="sr-only">Menu</span></button>
+        <nav>    
+            <ul id="primary_navigation" data-visible="false" class="primary_navigation flex">
+                <li><a href="index.html"><b>Home</b></a></li>
+                <li>
+                    <a href="sobre_netuno.html"><b>Sobre o Netuno<i class="fa-solid fa-caret-down"></i></b></a>
+                    <ul class="sobre_netuno_ul">
+                        <li><a href="sobre_netuno.html#apresentacao"><b>Apresentação</b></a></li>
+                        <li><a href="sobre_netuno.html#armas"><b>Sistema de armas</b></a></li>
+                        <li><a href="sobre_netuno.html#hardware"><b>Hardware</b></a></li>
+                        <li><a href="sobre_netuno.html#videos"><b>Lista de vídeos</b></a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="quem_somos.html"><b>Quem Somos<i
+                        class="fa-solid fa-caret-down"></i></b></a>
+                    <ul class="quem_somos_ul">
+                        <li><a href="quem_somos.html#sobre_nos"><b>Sobre nós</b></a></li>
+                        <li><a href="quem_somos.html#eventos"><b>Eventos</b></a></li>
+                    </ul>
+                </li>
+                <li><a href="#"><b>Contato</b></a></li>
+                <li><a class="seja_socio" href="#"><b>Seja sócio</b></a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div class="container_main flex">
+            <div class="main_contact_information flex">
+                <h1>Informação para contato</h1>
+                <div class="contact_information_parag flex">
+                    <p><i class="fa-solid fa-location-dot"></i> <span>Rua Monte Olimpo, 999 - Grécia</span></p>
+                    <p><i class="fa-solid fa-envelope"></i> <span>sonsofneptune@gmail.com</span></p>
+                    <p><i class="fa-solid fa-phone"></i> <span>+30 (Ω) 9999-9999</span></p>
+                </div>
+            </div>
+            <div class="main_contact_form flex">
+                <div>
+                    <h1>Contate-nos</h1>
+                    <form class="container_inputs flex">
+                        <div class="div_input name_form flex">
+                            <label>Nome:*</label>
+                            <input type="text" name="nome" id="nome" required>
+                        </div>
+                        <div class="div_input email_form flex">
+                            <label>Email:*</label>
+                            <input type="email" name="email" class="email" placeholder="Enter e-mail" size="32" required>
+                        </div>
+                        <div class="div_input phone_form flex">
+                            <label>Phone:</label>
+                            <input type="tel" name="phone" class="phone" id="phone" placeholder="XX9999-9999" pattern="[0-9]{2}[0-9]{4}-[0-9]{4}">    
+                        </div>
+                        <div class="div_input message_form flex">
+                            <label>Mensagem:</label>
+                            <textarea rows="7" name="message" id="message" maxlength="400"></textarea>
+                        </div>
+                        
+                </div>
+                <div class="container_btn flex">
+                    <button class="btn" type="submit"><i class="fa-solid fa-envelope"></i> Enviar</button>
+                </div>
+                
+                </form>
+            </div>
+        </div>
+        
+    </main>
+
+    
+
+    <footer>
+        <div class="footer_container flex">
+            <div class="footer_esquerdo">
+                <div class="footer_logo_container flex">
+                    <a href="index.html"><img src="img_index/Logooficial.png" alt="Sons_of_Neptune_Logo" class="logo_footer"></a>
+                    <h3>Sons Of Neptune</h3>
+                </div>
+                <div class="footer_redes flex">
+                    <a target="_blank" href="https://www.youtube.com/channel/UCUn5_Mw6brqjySDKP1Kfy8A">
+                        <i class="fa-brands fa-youtube"></i>
+                    </a>
+                    <a target="_blank">
+                        <i class="fa-brands fa-linkedin-in"></i>
+                    </a>
+                    <a target="_blank">
+                        <i class="fa-brands fa-instagram"></i>
+                    </a>
+                    <a target="_blank">
+                        <i class="fa-solid fa-phone"></i>
+                    </a>
+                </div>
+        
+                <p>
+                    Envie seu e-mail para ficar por dentro de todas as novidades que a <span>Sons of Neptune</span> tem a oferecer 
+                    e muito mais!
+                </p>
+        
+                <form class="footer_form flex">
+                    <input type="email" name="email" class="email" required placeholder="Enter e-mail" size="32">
+                    <button class="btn" type="submit"><i class="fa-solid fa-envelope"></i> Enviar</button>
+                </form>
+        
+            </div>
+    
+
+            <div class="footer_direito_container">
+                <div class="footer_direito flex">
+                    <div class="footer_columns flex">
+                        <a href="index.html"><b>Home</b></a>
+                        
+                    </div>
+                    <div class="footer_columns flex">
+                        <a href="sobre_netuno.html"><b>Sobre o Netuno</b></a>
+                        <a href="sobre_netuno.html#apresentacao"><b>Apresentação</b></a>
+                        <a href="sobre_netuno.html#armas"><b>Sistema de armas</b></a>
+                        <a href="sobre_netuno.html#hardware"><b>Hardware</b></a>
+                        <a href="sobre_netuno.html#videos"><b>Lista de vídeos</b></a>
+                    </div>
+                    <div class="footer_columns flex">
+                        <a href="quem_somos.html"><b>Quem Somos</b></a>
+                        <a href="quem_somos.html#sobre_nos"><b>Sobre nós</b></a>
+                        <a href="quem_somos.html#eventos"><b>Eventos</b></a>     
+                    </div>
+                    <div class="footer_columns flex">
+                        <a href="#"><b>Contato</b></a>   
+                    </div>
+                    <div class="footer_columns flex">
+                        <a class="seja_socio" href="#"><b>Seja sócio</b></a>    
+                    </div>
+                    
+                </div>
+
+                <div class="scrollTop" onclick="scrollToTop()"><i class="fa-solid fa-circle-arrow-up"></i></div> 
+            </div>
+            <h3 class="back_top_parag">Back to top</h3>
+        </div>
+        
+        
+    </footer>
+
+
+
+    <script src="js_index/script_scroll.js"></script>
+    <script src="https://kit.fontawesome.com/6be2c3b8c8.js" crossorigin="anonymous"></script>
+
+    
+</body>
+</html>

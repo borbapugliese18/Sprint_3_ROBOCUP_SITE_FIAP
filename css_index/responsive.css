@@ -1,0 +1,1255 @@
+@media screen and (min-width: 1189px) {
+
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                                        HEADER                                                          */
+    .logo{
+        margin: 1rem;
+        margin-top: 0px;
+        width: 11rem;
+        height: 10rem;
+    }
+
+    header {
+        margin-bottom: 7rem;
+    }
+
+    .primary_navigation {
+        gap: 4rem;
+        margin-top: -50px;
+        z-index: 1000;
+    }
+
+    .primary_navigation li{
+        position: relative;
+    }
+    
+    .primary_navigation li ul{
+        position: absolute;
+        width: 190px;
+        z-index: 100px;
+        height: 0px;
+        overflow: hidden;
+        transition: height 0.3s ease-in-out;
+        list-style: none;
+    }
+
+    .primary_navigation li:hover ul, .primary_navigation li a:hover ul{
+        height: 150px;
+    }
+
+    .primary_navigation li:hover .sobre_netuno_ul, .primary_navigation li a:hover ul{
+        height: 150px;
+    }
+
+    .primary_navigation li:hover .quem_somos_ul, .primary_navigation li a:hover ul{
+        height: 80px;
+    }
+
+    .primary_navigation li .sobre_netuno_ul{
+        width: 190px;
+    }
+
+    .primary_navigation li .quem_somos_ul{
+        width: 130px;
+    }
+
+    .primary_navigation li ul li a{
+       text-decoration: none;
+    }
+
+    .primary_navigation li ul li{
+       margin: 5px;
+       margin-left: -30px;
+     }
+
+    
+    
+    .primary_navigation a {
+        color: #fff;
+        font-size: 20px;
+    }
+
+    .primary_header nav {
+        margin-right: 40px;
+        margin-top: 3rem;
+    }
+
+    .primary_navigation .seja_socio {
+        border-radius: 37px;
+        padding: 7px 11px;
+        transition: 0.2s;
+    }
+    
+
+
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                                    MAIN (APRESENTACAO)                                                 */
+    .apresentacao {
+        width: 600px;
+        float: right;
+        margin-right: 1.5rem;
+        margin-bottom: -10rem;
+    }
+
+    .apresentacao h1 {
+        font-size: 45px;
+    }
+
+    .apresentacao .parag {
+        font-size: 1.2rem;
+        word-spacing: 1px;
+        line-height: 1.3;
+    }
+
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                                      MAIN (BALLS)                                               */
+    .balls_side{
+        display: block;
+        margin-left: 2rem;
+    }
+
+    .balls_side .bola_oculos{
+        width: 220px;
+        height: 220px;
+    }
+
+    .balls_side .bola_robo {
+        width: 260px;
+        height: 260px;
+    }
+
+    .balls_side .bola_mao {
+        width: 180px;
+        height: 180px;
+        margin-top: -15px;
+        margin-left: 9rem;
+    }
+
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                                      MAIN (TEXT)                                                       */
+    .text_side{
+        width: 600px;
+        float: right;
+        margin-top: -14rem;
+    }
+
+    .text_side .parag_sub {
+        margin: 1.5rem;
+        font-size: 1.20rem;
+        word-spacing: 2px;
+        line-height: 1.3;
+    }
+
+
+    .parag_sub span i {
+        font-size: 40px;
+    }
+
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                                  MAIN (ENVIAR E FORMS)                                                 */
+
+    
+
+    
+}
+
+
+@media screen and (min-width: 1271px) { 
+    .footer_direito_container{
+        display: block;
+    }
+
+    .footer_esquerdo{
+        padding: 1.7rem;
+    }
+
+    .footer_esquerdo .logo_footer{
+        width: 8rem;
+        height: 7rem;
+    }
+
+    .footer_esquerdo .flex h3{
+        font-size: 1.6rem;
+    }
+
+
+    .footer_redes i{
+        font-size: 2rem;
+        cursor: pointer;
+    }
+
+    .footer_esquerdo .flex{
+        align-items: center;
+        --gap: 1;
+    }
+
+    .footer_esquerdo .footer_redes{
+        margin: 2rem;
+        --gap: 1rem;
+    }
+
+    .footer_esquerdo p{
+        font-size: 1.1rem;
+        margin: 2rem;
+        width: 530px;
+    }
+
+    .footer_esquerdo .footer_form{
+        margin: 2rem;
+        gap: 1rem;
+    }
+
+    .footer_form input{
+        width: 25rem;
+        height: 2.3rem;
+        font-size: 1rem;
+        padding-left: 2rem;
+    }
+
+    .footer_form button{
+        width: 10rem;
+        height: 2.3rem;
+        font-size: 1rem;
+    }
+
+    footer .footer_container{
+        align-items: center;
+    }
+
+    main{
+        margin-bottom: 25rem;
+    }
+
+    footer .scrollTop i{
+        font-size: 3rem;
+        color: rgb(15,15,109);
+        transition: 0.3s;
+    }
+    
+    footer .scrollTop i:hover{
+        color: rgb(46, 46, 190);
+        transition: 0.3s;
+    }
+    
+    footer .scrollTop {
+        position: absolute;
+        right: 0;
+        margin-top: 10rem;
+        margin-right: 2rem;
+        cursor: pointer;
+    }
+
+    footer .footer_container .back_top_parag{
+        display: none;
+    }
+}
+
+
+/*============================================================================================================================*/
+
+
+@media screen and (min-width:1340px){
+    .balls_side .bola_oculos{
+        width: 260px;
+        height: 260px;
+    }
+
+    .balls_side .bola_robo {
+        width: 290px;
+        height: 290px;
+    }
+
+    .balls_side .bola_mao {
+        width: 220px;
+        height: 220px;
+        margin-top: -15px;
+        margin-left: 9rem;
+    }
+
+    .text_side{
+        margin-top: -300px;
+        margin-right: 40px;
+    }
+
+    .apresentacao{
+        margin-right: 80px;
+
+    }
+
+    main{
+        margin-bottom: 20rem;
+    }
+    
+
+    
+}
+
+
+/*============================================================================================================================*/
+
+
+@media screen and (min-width:1460px){
+    .balls_side .bola_oculos{
+        width: 280px;
+        height: 280px;
+    }
+
+    .balls_side .bola_robo {
+        width: 330px;
+        height: 330px;
+    }
+
+    .balls_side .bola_mao {
+        width: 240px;
+        height: 240px;
+        margin-top: -15px;
+        margin-left: 9rem;
+    }
+
+    .text_side{
+        margin-top: -380px;
+        margin-right: 50px;
+    }
+
+    .apresentacao{
+        margin-right: 90px;
+    }
+
+    main{
+        margin-bottom: 15rem;
+    }
+}
+
+
+/*============================================================================================================================*/
+
+
+@media screen and (min-width:1530px){
+    .balls_side .bola_oculos{
+        width: 320px;
+        height: 320px;
+    }
+
+    .balls_side .bola_robo {
+        width: 380px;
+        height: 380px;
+    }
+
+    .balls_side .bola_mao {
+        width: 280px;
+        height: 280px;
+        margin-top: -15px;
+        margin-left: 12rem;
+    }
+
+    .text_side{
+        margin-top: -480px;
+        margin-right: 50px;
+    }
+
+    .apresentacao{
+        margin-right: 100px;
+
+    }
+
+    main{
+        margin-bottom: 10rem;
+    }
+    
+}
+
+
+/*============================================================================================================================*/
+
+
+@media screen and (min-width:1590px){
+    .balls_side .bola_oculos{
+        width: 350px;
+        height: 350px;
+    }
+
+    .balls_side .bola_robo {
+        width: 410px;
+        height: 410px;
+    }
+
+    .balls_side .bola_mao {
+        width: 310px;
+        height: 310px;
+        margin-top: -15px;
+        margin-left: 12rem;
+    }
+
+    .text_side{
+        margin-top: -500px;
+        margin-right: 60px;
+    }
+
+    .apresentacao h1{
+        font-size: 3.6rem;
+    }
+
+    .apresentacao .parag{
+        font-size: 1.3rem;
+        width: 620px;
+    }
+
+    .apresentacao{
+        margin-left: -150px;
+        margin-right: 140px;
+    }
+
+
+    .text_side .parag_sub{
+        font-size: 1.3rem;
+        width: 610px;
+        margin-left: -40px;
+        margin-right: 50px;
+    }
+
+
+
+}    
+
+/*============================================================================================================================*/
+
+
+@media screen and (min-width:1670px){
+    .balls_side .bola_oculos{
+        width: 370px;
+        height: 370px;
+    }
+
+    .balls_side .bola_robo {
+        width: 430px;
+        height: 430px;
+    }
+
+    .balls_side .bola_mao {
+        width: 330px;
+        height: 330px;
+        margin-top: -15px;
+        margin-left: 12rem;
+    }
+
+    .text_side{
+        margin-top: -520px;
+        margin-right: 80px;
+    }
+
+    .apresentacao{
+        margin-right: 160px;
+    }
+
+}    
+
+/*============================================================================================================================*/
+
+
+@media screen and (min-width:1770px){
+    .balls_side .bola_oculos{
+        width: 390px;
+        height: 390px;
+    }
+
+    .balls_side .bola_robo {
+        width: 450px;
+        height: 450px;
+    }
+
+    .balls_side .bola_mao {
+        width: 350px;
+        height: 350px;
+        margin-top: -15px;
+        margin-left: 12rem;
+    }
+
+    .text_side{
+        margin-top: -560px;
+        margin-right: 100px;
+    }
+
+    .apresentacao{
+        margin-right: 180px;
+    }
+
+
+}    
+
+/*============================================================================================================================*/
+
+
+@media screen and (min-width:1840px){
+    .balls_side .bola_oculos{
+        width: 410px;
+        height: 410px;
+    }
+
+    .balls_side .bola_robo {
+        width: 470px;
+        height: 470px;
+    }
+
+    .balls_side .bola_mao {
+        width: 350px;
+        height: 350px;
+        margin-top: -15px;
+        margin-left: 13rem;
+    }
+
+    .text_side{
+        margin-top: -580px;
+        margin-right: 80px;
+    }
+
+    .apresentacao{
+        margin-right: 150px;
+    }
+
+}    
+
+
+/*============================================================================================================================*/
+
+
+@media screen and (max-width: 1270px){
+    .footer_direito{
+        display: none;
+    }
+
+    .footer_esquerdo{
+        padding: 1.7rem;
+    }
+
+    .footer_logo_container{
+        flex-direction: column;
+    }
+
+    .footer_esquerdo .logo_footer{
+        width: 8rem;
+        height: 7rem;
+    }
+
+    .footer_esquerdo .flex h3{
+        font-size: 1.6rem;
+    }
+
+
+    .footer_redes i{
+        font-size: 2rem;
+        cursor: pointer;
+    }
+
+    .footer_redes{
+        justify-content: center;
+    }
+
+    .footer_esquerdo .flex{
+        align-items: center;
+        --gap: 1;
+    }
+
+    .footer_esquerdo .footer_redes{
+        margin: 2rem;
+        --gap: 1rem;
+    }
+
+    .footer_esquerdo p{
+        margin-left: 1rem;
+        margin-right: 1rem;
+        font-size: 1.1rem;
+        text-align: center;
+    }
+
+    .footer_esquerdo .footer_form{
+        margin: 2rem;
+        gap: 1rem;
+        flex-direction: column;
+    }
+
+    .footer_form input{
+        width: 100%;
+        height: 2.3rem;
+        font-size: 1rem;
+        padding-left: 2rem;
+    }
+
+    .footer_form button{
+        width: 10rem;
+        height: 2.3rem;
+        font-size: 1rem;
+    }
+
+    footer .footer_container{
+        align-items: center;
+        flex-direction: column;
+    }
+
+    main{
+        margin-bottom: 25rem;
+    }
+
+    .footer_direito_container{
+        position: relative;
+        
+    }
+
+    footer .scrollTop i{
+        font-size: 3rem;
+        color: rgb(15,15,109);
+        transition: 0.3s;
+    }
+    
+    footer .scrollTop i:hover{
+        color: rgb(46, 46, 190);
+        transition: 0.3s;
+    }
+    
+    footer .scrollTop {
+        cursor: pointer;
+    }
+
+    footer .footer_container .back_top_parag{
+        display: block;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin-top: -1rem;
+        color: black;
+    }
+}
+
+/*============================================================================================================================*/
+
+
+@media screen and (max-width:1188px){
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                                        HEADER                                                          */
+
+    .primary_navigation {
+        gap: 4rem;
+        margin-top: -50px;
+        z-index: 1000;
+    }
+
+    .primary_navigation li{
+        position: relative;
+    }
+    
+    .primary_navigation li ul{
+        position: absolute;
+        width: 190px;
+        z-index: 1000;
+        height: 0px;
+        overflow: hidden;
+        transition: height 0.3s ease-in-out;
+        list-style: none;
+    }
+
+    .primary_navigation li:hover ul, .primary_navigation li a:hover ul{
+        height: 150px;
+    }
+    
+    .primary_navigation li:hover .quem_somos_ul, .primary_navigation li a:hover ul{
+        height: 80px;
+    }
+
+    .primary_navigation li .quem_somos_ul{
+        width: 130px;
+    }
+
+    .primary_navigation li ul li a{
+       text-decoration: none;
+    }
+
+    .primary_navigation li ul li{
+       margin: 5px;
+       margin-left: -30px;
+     }
+
+
+    .logo{
+        margin: 1rem;
+        margin-top: 0px;
+        width: 11rem;
+        height: 10rem;
+    }
+
+    header {
+        margin-bottom: 4rem;
+    }
+
+    .primary_navigation {
+        gap: 3.5rem;
+    }
+
+    .primary_navigation a {
+        color: #fff;
+        font-size: 18px;
+    }
+
+    .primary_header nav {
+        margin-right: 40px;
+    }
+
+    .primary_navigation .seja_socio {
+        border-radius: 37px;
+        padding: 7px 11px;
+        transition: 0.2s;
+    }
+
+    .primary_navigation {
+        position: fixed;
+        inset: 0 0 0 68%;
+        background: rgb(29, 29, 80);
+        flex-direction: column;
+        padding: min(30vh, 16rem) 2em;
+        font-size: 25px;
+        --gap: 1.5em;
+        z-index: 1000;
+        transform: translateX(100%);
+        transition: transform 350ms ease-out;
+    }
+
+    .primary_navigation[data-visible="true"] {
+        transform: translateX(0%);
+    }
+
+    .mobile_nav_toggle {
+        display: block;
+        position: absolute;
+        background: url('../img_index/bars.svg');
+        width: 3rem;
+        aspect-ratio: 1;
+        top: 1.5rem;
+        right: 2rem;
+        z-index: 9999;
+        border: none;
+        margin-top: 40px;
+        cursor: pointer;
+    }
+
+    .mobile_nav_toggle[aria-expanded="true"] {
+        background-image: url('../img_index/x.svg');
+        position: fixed;
+        cursor: pointer;
+    }
+
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                               MAIN (APRESENTAÇÃO)                                                      */
+    .apresentacao {
+        margin: 1.5rem;
+        margin-bottom: 5rem;
+
+    }
+
+    .apresentacao h1 {
+        font-size: 3.5rem;
+        line-height: 1.1;
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+
+    .apresentacao .parag {
+        font-size: 1.20rem;
+        word-spacing: 1px;
+        line-height: 1.3;
+    }
+
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                                      MAIN (BALLS)                                               */
+    .balls_side {
+        margin: 1.5rem;
+        justify-content: center;
+        margin-bottom: 6rem;
+    }
+
+    .balls_side .bola_oculos {
+        width: 220px;
+        height: 220px;
+    }
+
+    .balls_side .bola_robo {
+        width: 220px;
+        height: 220px;
+    }
+
+    .balls_side .bola_mao {
+        width: 220px;
+        height: 220px;
+    }
+
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                                      MAIN (TEXT)                                                       */
+    .text_side .parag_sub {
+        margin: 1.5rem;
+        font-size: 1.20rem;
+        word-spacing: 2px;
+        line-height: 1.3;
+    }
+
+
+    .parag_sub span i {
+        font-size: 40px;
+    }
+
+
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                                  MAIN (ENVIAR E FORMS)                                                 */
+
+    .text_side form {
+        align-items: center;
+        flex-direction: column;
+        margin-bottom: 2rem;
+        gap: 0.5rem;
+    }
+
+    .text_side form .email {
+        padding: 8px;
+    }
+
+    .text_side h4,
+    .text_side form {
+        text-align: center;
+    }
+
+    .text_side h4 {
+        font-size: 25px;
+        margin-top: 5rem;
+    }
+
+    .text_side form .btn {
+        width: 90px;
+        padding: 7px;
+        font-size: 16px;
+    }
+
+    /*-----------------------------------------------------FOOTER-----------------------------------------------------------*/
+    .footer_direito{
+        display: none;
+    }
+
+    .footer_esquerdo{
+        padding: 1.7rem;
+    }
+
+    .footer_logo_container{
+        flex-direction: column;
+    }
+
+    .footer_esquerdo .logo_footer{
+        width: 8rem;
+        height: 7rem;
+    }
+
+    .footer_esquerdo .flex h3{
+        font-size: 1.6rem;
+    }
+
+
+    .footer_redes i{
+        font-size: 2rem;
+        cursor: pointer;
+    }
+
+    .footer_redes{
+        justify-content: center;
+    }
+
+    .footer_esquerdo .flex{
+        align-items: center;
+        --gap: 1;
+    }
+
+    .footer_esquerdo .footer_redes{
+        margin: 2rem;
+        --gap: 1rem;
+    }
+
+    .footer_esquerdo p{
+        margin-left: 1rem;
+        margin-right: 1rem;
+        font-size: 1.1rem;
+        text-align: center;
+    }
+
+    .footer_esquerdo .footer_form{
+        margin: 2rem;
+        gap: 1rem;
+        flex-direction: column;
+    }
+
+    .footer_form input{
+        width: 100%;
+        height: 2.3rem;
+        font-size: 1rem;
+        padding-left: 2rem;
+    }
+
+    .footer_form button{
+        width: 10rem;
+        height: 2.3rem;
+        font-size: 1rem;
+    }
+
+    footer .footer_container{
+        align-items: center;
+        flex-direction: column;
+    }
+
+    main{
+        margin-bottom: 25rem;
+    }
+
+    .footer_direito_container{
+        position: relative;
+        
+    }
+
+    footer .scrollTop i{
+        font-size: 3rem;
+        color: rgb(15,15,109);
+        transition: 0.3s;
+    }
+    
+    footer .scrollTop i:hover{
+        color: rgb(46, 46, 190);
+        transition: 0.3s;
+    }
+    
+    footer .scrollTop {
+        cursor: pointer;
+    }
+
+    footer .footer_container .back_top_parag{
+        display: block;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin-top: -1rem;
+        color: black;
+    }
+}
+
+
+/*============================================================================================================================*/
+@media screen and (max-width: 1082px){
+    header {
+        margin-bottom: 4rem;
+    }
+
+
+    .logo{
+        margin: 1rem;
+        margin-top: 0px;
+        width: 11rem;
+        height: 10rem;
+    }
+}
+
+
+
+/*============================================================================================================================*/
+@media screen and (max-width: 930px){
+    .primary_navigation {
+        position: fixed;
+        inset: 0 0 0 60%;
+        background: rgb(29, 29, 80);
+        flex-direction: column;
+        padding: min(30vh, 16rem) 2em;
+        font-size: 25px;
+        --gap: 1.5em;
+        z-index: 1000;
+        transform: translateX(100%);
+        transition: transform 350ms ease-out;
+    }
+
+    .primary_navigation[data-visible="true"] {
+        transform: translateX(0%);
+    }
+
+    .mobile_nav_toggle {
+        display: block;
+        position: absolute;
+        background: url('../img_index/bars.svg');
+        width: 3rem;
+        aspect-ratio: 1;
+        top: 1.5rem;
+        right: 2rem;
+        z-index: 9999;
+        border: none;
+        margin-top: 45px;
+        cursor: pointer;
+    }
+
+    .mobile_nav_toggle[aria-expanded="true"] {
+        background-image: url('../img_index/x.svg');
+        position: fixed;
+        cursor: pointer;
+    }
+}
+
+
+/*============================================================================================================================*/
+
+
+@media screen and (max-width: 768px) {
+
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                                        HEADER                                                          */
+    header {
+        margin-bottom: 4rem;
+    }
+
+    .primary_navigation {
+        position: fixed;
+        inset: 0 0 0 60%;
+        background: rgb(29, 29, 80);
+        flex-direction: column;
+        padding: min(30vh, 16rem) 2em;
+        font-size: 25px;
+        --gap: 1.5em;
+        z-index: 1000;
+        transform: translateX(100%);
+        transition: transform 350ms ease-out;
+    }
+
+    .primary_navigation[data-visible="true"] {
+        transform: translateX(0%);
+    }
+
+    .mobile_nav_toggle {
+        display: block;
+        position: absolute;
+        background: url('../img_index/bars.svg');
+        width: 3rem;
+        aspect-ratio: 1;
+        top: 1.5rem;
+        right: 2rem;
+        z-index: 9999;
+        border: none;
+        margin-top: 45px;
+        cursor: pointer;
+    }
+
+    .mobile_nav_toggle[aria-expanded="true"] {
+        background-image: url('../img_index/x.svg');
+        position: fixed;
+        cursor: pointer;
+    }
+
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                               MAIN (APRESENTAÇÃO)                                                      */
+    .apresentacao {
+        margin: 1.5rem;
+        margin-bottom: 5rem;
+
+    }
+
+    .apresentacao h1 {
+        font-size: 3.5rem;
+        line-height: 1.1;
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+
+    .apresentacao .parag {
+        font-size: 1.20rem;
+        word-spacing: 1px;
+        line-height: 1.3;
+    }
+
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                                      MAIN (BALLS)                                               */
+    .balls_side {
+        margin: 1.5rem;
+        justify-content: center;
+        margin-bottom: 6rem;
+    }
+
+    .balls_side .bola_oculos {
+        width: 220px;
+        height: 220px;
+    }
+
+    .balls_side .bola_robo {
+        width: 220px;
+        height: 220px;
+    }
+
+    .balls_side .bola_mao {
+        width: 220px;
+        height: 220px;
+    }
+
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                                      MAIN (TEXT)                                                       */
+    .text_side .parag_sub {
+        margin: 1.5rem;
+        font-size: 1.20rem;
+        word-spacing: 2px;
+        line-height: 1.3;
+    }
+
+
+    .parag_sub span i {
+        font-size: 40px;
+    }
+
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*------------------------------------------------------------------------------------------------------------------------*/
+    /*                                                  MAIN (ENVIAR E FORMS)                                                 */
+
+    .text_side form {
+        align-items: center;
+        flex-direction: column;
+        margin-bottom: 2rem;
+        gap: 0.5rem;
+    }
+
+    .text_side form .email {
+        padding: 8px;
+    }
+
+    .text_side h4,
+    .text_side form {
+        text-align: center;
+    }
+
+    .text_side h4 {
+        font-size: 25px;
+        margin-top: 5rem;
+    }
+
+    .text_side form .btn {
+        width: 90px;
+        padding: 7px;
+        font-size: 16px;
+    }
+}
+
+
+/*============================================================================================================================*/
+
+
+@media screen and (max-width: 730px) {
+    .balls_side .bola_oculos {
+        width: 195px;
+        height: 195px;
+    }
+
+    .balls_side .bola_robo {
+        width: 195px;
+        height: 195px;
+    }
+
+    .balls_side .bola_mao {
+        width: 195px;
+        height: 195px;
+    }
+
+    .primary_navigation {
+        inset: 0 0 0 55%;
+    }
+}
+
+
+/*============================================================================================================================*/
+
+
+@media screen and (max-width: 654px) {
+
+    .balls_side {
+        flex-direction: column;
+        align-items: center;
+        gap: 3rem;
+    }
+
+    .balls_side .bola_oculos {
+        width: 380px;
+        height: 380px;
+    }
+
+    .balls_side .bola_robo {
+        width: 380px;
+        height: 380px;
+    }
+
+    .balls_side .bola_mao {
+        width: 380px;
+        height: 380px;
+    }
+
+    .primary_navigation {
+        inset: 0 0 0 40%;
+    }
+}
+
+
+/*============================================================================================================================*/
+
+
+@media screen and (max-width: 500px) {
+    .primary_header .logo {
+        width: 8.5rem;
+        height: 7.5rem;
+    }
+
+    .mobile_nav_toggle {
+        width: 2.5rem;
+        margin-top: 1.4rem;
+    }
+
+    .primary_navigation a {
+        font-size: 20px;
+    }
+
+    .primary_navigation {
+        inset: 0 0 0 40%;
+    }
+}
+
+
+/*============================================================================================================================*/
+
+
+@media screen and (max-width: 470px) {
+    .balls_side .bola_oculos {
+        width: 300px;
+        height: 300px;
+    }
+
+    .balls_side .bola_robo {
+        width: 300px;
+        height: 300px;
+    }
+
+    .balls_side .bola_mao {
+        width: 300px;
+        height: 300px;
+    }
+
+    .primary_navigation {
+        inset: 0 0 0 20%;
+    }
+}
+
+/*============================================================================================================================*/
+
+
+@media screen and (max-width: 364px) {
+    .primary_navigation{
+        font-size: 14px;
+    }
+}
+
+/*============================================================================================================================*/

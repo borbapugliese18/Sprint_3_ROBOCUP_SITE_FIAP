@@ -1,0 +1,616 @@
+@media screen and (min-width: 1189px){
+
+    /*------------------------------------------------------NETUNO-------------------------------------------------------------*/
+    .images_netuno img{
+        width: 450px;
+        height: 450px;
+    }
+
+    .netuno .images_netuno{
+        right: 0;
+        position: absolute;
+        margin-right: 2rem;
+    }
+
+    .netuno .parag_netuno_primeiro{
+        margin-top: 15rem;
+        margin-bottom: 16rem;
+        margin-left: 2rem;
+        font-size: 1.3rem;
+        width: 40rem;
+        text-align: justify;
+    }
+
+    .netuno .parag_netuno_segundo{
+        float: left;
+        margin-top: -39.5rem;
+        width: 40rem;
+        margin-left: 2rem;
+        font-size: 1.3rem;
+        text-align: justify;
+    }
+
+    .netuno h1{
+        margin-top: 10rem;
+        margin-bottom: -11rem;
+        margin-left: 2rem;
+        font-size: 5rem;
+        width: 40rem;
+    }
+
+    .netuno{
+        margin-bottom: 11rem;
+    }
+
+    .carrosel_fotos{
+        margin-right: 2rem;
+        margin-left: 2rem;
+    }
+
+    .carrosel_fotos .item{
+        margin-bottom: 4rem;
+    }
+
+    /*------------------------------------------------------ARMAS-------------------------------------------------------------*/
+    .armas h1{
+        right: 0;
+        position: absolute;
+        font-size: 4.5rem;
+        width: 40rem;
+        margin-right: 0.9rem;
+        margin-top: 2rem;
+    }
+
+    .armas .parag_netuno{
+        text-align: justify;
+        width: 38rem;
+        float: right;
+        margin-top: -18rem;
+        font-size: 1.3rem;
+        right: 0;
+        position: absolute;
+        margin-right: 2rem;
+    }
+
+    .armas .images_netuno{
+        margin-left: 2rem;
+    }
+
+    .armas{
+        margin-bottom: 16rem;
+    }
+
+    /*-----------------------------------------------------HARDWARE-----------------------------------------------------------*/
+    .hardware h1{
+        margin-top: 10rem;
+        margin-bottom: -11rem;
+        margin-left: 2rem;
+        font-size: 4.5rem;
+        width: 40rem;
+    }
+
+    .hardware .parag_netuno_primeiro{
+        margin-top: 14rem;
+        margin-bottom: 20rem;
+        margin-left: 2rem;
+        font-size: 1.3rem;
+        width: 40rem;
+        text-align: justify;
+    }
+
+    .hardware .parag_netuno_segundo{
+        float: left;
+        margin-top: -20rem;
+        width: 40rem;
+        margin-left: 2rem;
+        font-size: 1.3rem;
+        text-align: justify;
+    }
+
+    .hardware .images_netuno{
+        right: 0;
+        position: absolute;
+        margin-right: 2rem;
+        margin-top: -37rem;
+    }
+
+
+    .hardware .carrosel_fotos{
+        margin-top: 21rem;
+        margin-bottom: 10rem;
+    }
+
+    /*-----------------------------------------------------VIDEOS-----------------------------------------------------------*/
+
+    .videos .container_videos{
+        justify-content: center;
+    }
+
+    .videos .container_videos .container_iframe{
+        margin: 0 9rem;
+        width: 100%;
+        gap: 3rem;
+    }
+
+    .container_iframe iframe{
+        width: 100%;
+        height: 470px;
+    }
+
+    .videos{
+        margin-bottom: 10rem;
+    }
+
+    
+
+}
+
+
+
+
+/*============================================================================================================================*/
+
+
+@media screen and (min-width:1246px){
+    .netuno .parag_netuno, .netuno h1{
+        margin-left: 4rem;
+    }
+    .armas .parag_netuno, .armas h1{
+        margin-right: 4rem;
+    }
+
+    .hardware h1{
+        margin-left: 3rem;
+    }
+
+    
+}
+
+
+
+/*=============================================================================================================================*/
+
+@media screen and (min-width: 1250px){
+    .netuno .parag_netuno_segundo{
+        margin-top: -40.4rem;
+    }
+
+}
+
+
+/*=============================================================================================================================*/
+
+@media screen and (min-width: 1290px){
+    .netuno .parag_netuno_segundo{
+        margin-top: -41rem;
+    }
+
+}
+
+
+/*=============================================================================================================================*/
+
+@media screen and (min-width: 1320px){
+    .images_netuno img{
+        width: 500px;
+        height: 500px;
+    }
+
+    .parag_netuno_primeiro .parag_netuno, .parag_netuno_segundo .parag_netuno{
+        font-size: 1.5rem;
+        width: 44rem;
+    }
+
+    .netuno .parag_netuno_segundo{
+        margin-top: -41.5rem;
+    }
+
+    .armas .parag_netuno{
+        margin-top: -21rem;
+    }
+
+    .netuno .parag_netuno{
+        margin-left: 2rem;
+    }
+
+    
+}
+
+
+/*=============================================================================================================================*/
+
+@media screen and (min-width: 1380px){
+    .netuno .parag_netuno_segundo{
+        margin-top: -42.2rem;
+    }
+    
+    .hardware .parag_netuno{
+        margin-left: 3.5rem;
+    }
+
+    .hardware h1{
+        margin-left: 5rem;
+    }
+    
+
+}
+
+
+/*=============================================================================================================================*/
+
+@media screen and (min-width: 1430px){
+    .images_netuno img{
+        width: 550px;
+        height: 550px;
+    }
+
+    .parag_netuno_primeiro .parag_netuno, .parag_netuno_segundo .parag_netuno{
+        font-size: 1.7rem;
+        width: 44rem;
+    }
+
+    .netuno .parag_netuno_segundo{
+        margin-top: -43.2rem;
+    }
+
+    .armas .parag_netuno{
+        margin-top: -23rem;
+    }
+
+    .netuno .parag_netuno{
+        margin-left: 3.5rem;
+    }
+    .netuno h1{
+        margin-left: 5rem;
+    }
+}
+
+
+/*=============================================================================================================================*/
+
+@media screen and (min-width: 1490px){
+    .netuno .parag_netuno_segundo{
+        margin-top: -44rem;
+    }
+
+}
+
+/*=============================================================================================================================*/
+
+@media screen and (min-width: 1520px){
+    .netuno .parag_netuno_segundo{
+        margin-top: -44.6rem;
+    }
+
+}
+
+
+/*=============================================================================================================================*/
+
+@media screen and (min-width: 1550px){
+    .images_netuno img{
+        width: 590px;
+        height: 590px;
+    }
+
+    .parag_netuno_primeiro .parag_netuno, .parag_netuno_segundo .parag_netuno{
+        font-size: 1.7rem;
+        width: 50rem;
+    }
+
+
+    .netuno .parag_netuno_segundo{
+        margin-top: -56rem;
+    }
+
+    .armas .parag_netuno{
+        margin-top: -26rem;
+    }
+
+    .carrosel_fotos, .hardware .carrosel_fotos{
+        margin-top: 27rem;
+    }
+}
+
+
+/*=============================================================================================================================*/
+
+@media screen and (min-width: 1595px){
+    .netuno .parag_netuno_segundo{
+        margin-top: -57rem;
+    }
+
+}
+
+
+/*=============================================================================================================================*/
+
+@media screen and (min-width: 1680px){
+    .images_netuno img{
+        width: 650px;
+        height: 650px;
+    }
+
+    .parag_netuno_primeiro .parag_netuno, .parag_netuno_segundo .parag_netuno{
+        font-size: 1.7rem;
+        width: 55rem;
+    }
+
+    .netuno .parag_netuno_segundo{
+        margin-top: -61rem;
+    }
+
+    .armas .parag_netuno{
+        margin-top: -29rem;
+    }
+
+    .carrosel_fotos, .hardware .carrosel_fotos{
+        margin-top: 30rem;
+    }
+}
+
+/*=============================================================================================================================*/
+
+@media screen and (min-width: 1725px){
+    .netuno .parag_netuno_segundo{
+        margin-top: -62rem;
+    }
+
+}
+
+
+/*=============================================================================================================================*/
+
+@media screen and (min-width: 1780px){
+    .netuno .parag_netuno_segundo{
+        margin-top: -62.5rem;
+    }
+
+}
+
+
+/*=============================================================================================================================*/
+
+@media screen and (min-width: 1850px){
+    .images_netuno img{
+        width: 720px;
+        height: 720px;
+    }
+
+    .parag_netuno_primeiro .parag_netuno, .parag_netuno_segundo .parag_netuno{
+        font-size: 1.7rem;
+        width: 55rem;
+    }
+
+    .netuno .parag_netuno_segundo{
+        margin-top: -70rem;
+    }
+
+    .armas .parag_netuno{
+        margin-top: -33rem;
+    }
+
+    .carrosel_fotos, .hardware .carrosel_fotos{
+        margin-top: 37rem;
+    }
+
+    .hardware h1{
+        margin-bottom: -10rem;
+    }
+}
+
+
+/*=============================================================================================================================*/
+
+@media screen and (min-width: 1910px){
+    .netuno .parag_netuno_segundo{
+        margin-top: -71.2rem;
+    }
+
+}
+
+
+/*=============================================================================================================================*/
+
+
+
+@media screen and (max-width: 1188px){
+    main .parag_netuno{
+        text-align: justify;
+        margin: 1rem;
+        font-size: 1.6rem;
+        word-spacing: 1px;
+        line-height: 1.3;
+    }
+
+    main h1{
+        text-align: center;
+        margin: 1rem;
+        font-size: 3.4rem !important;
+        line-height: 1.1;
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+    .carrosel_fotos{
+        background-color: #0c0c0c00;
+        margin: 2.5rem;
+    }
+
+    main .images_netuno{
+        justify-content: center;    
+    }
+
+    .images_netuno img{
+        width: 660px;
+        height: 660px;
+    }
+
+    /*NETUNO - ARMAS - HARDWARE - VIDEOS*/
+    main .netuno, main .armas, main .hardware, main .videos{
+        margin-bottom: 7rem;
+    }
+
+
+    .videos .container_videos{
+        justify-content: center;
+    }
+
+    .videos .container_videos .container_iframe{
+        flex-direction: column;
+        margin: 0 9rem;
+        width: 100%;
+        gap: 3rem;
+    }
+
+    .container_iframe iframe{
+        width: 100%;
+        height: 470px;
+    }
+}
+
+
+
+
+/*=============================================================================================================================*/
+
+
+@media screen and (max-width: 940px){
+    .videos .container_videos{
+        justify-content: center;
+    }
+
+    .videos .container_videos .container_iframe{
+        flex-direction: column;
+        margin: 0 5rem;
+        width: 100%;
+        gap: 3rem;
+    }
+
+    .container_iframe iframe{
+        width: 100%;
+        height: 450px;
+    }
+
+   
+}
+
+
+/*=============================================================================================================================*/
+
+
+@media screen and (max-width: 768px){
+    
+    /*-------------------------------------------------------------------------------------------------------------------------*/
+    /*                                                       MAIN                                                              */
+    main .parag_netuno{
+        text-align: justify;
+        margin: 1rem;
+        font-size: 1.3rem;
+        word-spacing: 1px;
+        line-height: 1.3;
+    }
+
+    main h1{
+        text-align: center;
+        margin: 1rem;
+        font-size: 3rem !important;
+        line-height: 1.1;
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+    .carrosel_fotos{
+        background-color: #0c0c0c00;
+        margin: 2.5rem;
+    }
+
+    main .images_netuno{
+        justify-content: center;    
+    }
+
+    .images_netuno img{
+        width: 450px;
+        height: 450px;
+    }
+
+    /*NETUNO - ARMAS - HARDWARE - VIDEOS*/
+    main .netuno, main .armas, main .hardware, main .videos{
+        margin-bottom: 7rem;
+    }
+
+
+    .videos .container_videos{
+        justify-content: center;
+    }
+
+    .videos .container_videos .container_iframe{
+        flex-direction: column;
+        margin: 0 3rem;
+        width: 100%;
+        gap: 3rem;
+    }
+
+    .container_iframe iframe{
+        width: 100%;
+        height: 350px;
+    }
+
+    /*-------------------------------------------------------------------------------------------------------------------------*/
+
+}
+
+
+
+/*=============================================================================================================================*/
+
+
+
+@media screen and (max-width: 630px){
+    main .parag_netuno{
+        font-size: 1.2rem;
+    }
+
+    main h1{
+        font-size: 2.5rem !important;
+    }
+
+    .images_netuno img{
+        width: 380px;
+        height: 380px;
+    }
+
+   
+}
+
+
+/*=============================================================================================================================*/
+
+
+
+
+/*=============================================================================================================================*/
+
+
+@media screen and (max-width: 425px){
+    main .parag_netuno{
+        font-size: 1.2rem;
+    }
+
+    main h1{
+        font-size: 2.5rem !important;
+    }
+
+    .images_netuno img{
+        width: 300px;
+        height: 300px;
+    }
+
+   
+}
+
+
+
+/*=============================================================================================================================*/
+
+
