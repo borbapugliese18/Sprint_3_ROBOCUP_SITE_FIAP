@@ -6,11 +6,7 @@ Durante o primeiro ano de Sistemas de Informação na FIAP, tivemos um desafio C
 
 O desafio é construir um robo do zero, para batalhar na arena do evento NEXT Fiap Festival, que acontece ao final do ano.
 
-A partir dessa proposta, todas as matérias propõem trabalhos com relação ao robô e ao evento, nesse caso o trabalho foi para a disciplina de Web Standards and Game Developing, tendo que construir um site responsivo utilizando apenas HTML, CSS e Javascript.   
-  
-  
-
-
+A partir dessa proposta, todas as matérias propõem trabalhos com relação ao robô e ao evento, nesse caso o trabalho foi para a disciplina de Web Standards and Game Developing, tendo que construir um site responsivo utilizando apenas HTML, CSS e Javascript.  
 Link: https://borbapugliese18.github.io/Sprint_3_ROBOCUP_SITE_FIAP/
 
 
