@@ -639,13 +639,7 @@
     }
     
     .primary_navigation li ul{
-        position: absolute;
-        width: 190px;
-        z-index: 1000;
-        height: 0px;
-        overflow: hidden;
-        transition: height 0.3s ease-in-out;
-        list-style: none;
+        display: none;
     }
 
     .primary_navigation li:hover ul, .primary_navigation li a:hover ul{
