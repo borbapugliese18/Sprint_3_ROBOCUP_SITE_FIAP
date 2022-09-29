@@ -642,17 +642,6 @@
         display: none;
     }
 
-    .primary_navigation li:hover ul, .primary_navigation li a:hover ul{
-        height: 0px;
-    }
-    
-    .primary_navigation li:hover .quem_somos_ul, .primary_navigation li a:hover ul{
-        height: 0px;
-    }
-
-    .primary_navigation li .quem_somos_ul{
-        width: 0px;
-    }
 
     .primary_navigation li ul li a{
        text-decoration: none;
