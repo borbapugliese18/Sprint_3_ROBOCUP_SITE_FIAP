@@ -645,6 +645,7 @@
 
     .primary_navigation li .fa-caret-down{
         display: none;
+        color: red;
     }
     
     
