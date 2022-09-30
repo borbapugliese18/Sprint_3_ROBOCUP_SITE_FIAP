@@ -20,7 +20,7 @@ Link: https://borbapugliese18.github.io/Sprint_3_ROBOCUP_SITE_FIAP/
 ## 
 
 ## Fotos (Desktop)
-<img src="https://user-images.githubusercontent.com/96325608/193321809-e7360e54-fab6-4106-b3a6-f5b9b3e1acba.png" witdh="500" height="1000">  <img src="https://user-images.githubusercontent.com/96325608/193321959-b6a40ae9-5fc3-42ea-bca9-79edaeb651a2.png" witdh="500" height="1000"> <img src="https://user-images.githubusercontent.com/96325608/193322022-ccb8ec9a-4887-4b0b-aedd-fbc9dfb04916.png" witdh="500" height="1000"> <img src="https://user-images.githubusercontent.com/96325608/193322127-9678bb31-6392-431c-9551-1df461c5cc65.png" witdh="500" height="1000"> <img src="https://user-images.githubusercontent.com/96325608/193322167-195fa23c-f19b-4dcc-aa7b-ba74ffb018f1.png" witdh="500" height="1000">
+<img src="https://user-images.githubusercontent.com/96325608/193321809-e7360e54-fab6-4106-b3a6-f5b9b3e1acba.png" witdh="500" height="800">  <img src="https://user-images.githubusercontent.com/96325608/193321959-b6a40ae9-5fc3-42ea-bca9-79edaeb651a2.png" witdh="500" height="500"> <img src="https://user-images.githubusercontent.com/96325608/193322022-ccb8ec9a-4887-4b0b-aedd-fbc9dfb04916.png" witdh="500" height="800"> <img src="https://user-images.githubusercontent.com/96325608/193322127-9678bb31-6392-431c-9551-1df461c5cc65.png" witdh="500" height="800"> <img src="https://user-images.githubusercontent.com/96325608/193322167-195fa23c-f19b-4dcc-aa7b-ba74ffb018f1.png" witdh="500" height="800">
 
 
 
