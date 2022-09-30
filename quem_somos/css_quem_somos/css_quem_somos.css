@@ -3,12 +3,12 @@ body{
 }
 
 main .sobre_nos .parag, .eventos .parag{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS';
     color: #fff;
     text-align: justify;
 }
 
 main .sobre_nos .titulo, .eventos .titulo{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans Unicode';
     color:rgb(228, 153, 41);
 }

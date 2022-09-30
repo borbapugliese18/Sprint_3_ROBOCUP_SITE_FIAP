@@ -90,7 +90,7 @@ body{
 .primary_navigation a{
     text-decoration: none;
     color: #fff;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans Unicode';
     transition: 0.2s;
 }
 
@@ -118,12 +118,12 @@ body{
 /*------------------------------------------------------------------------------------------------------------------------*/
 /*                                                      MAIN                                                              */
 .apresentacao .parag, .text_side .parag_sub{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS';
 }
 
 .apresentacao h1{
     color: rgb(228, 153, 41);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family: 'Lucida Sans Unicode';
 }
 
 
@@ -175,12 +175,12 @@ footer .footer_container{
 }
 
 .footer_esquerdo .flex h3{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans Unicode';
     color:rgb(15,15,109);
 }
 
 .footer_esquerdo p{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Trebuchet MS';
 }
 
 .footer_esquerdo p span, p{
@@ -192,7 +192,7 @@ footer .footer_container{
     border-radius: 5px;
     border: 2px solid black;
     background-color: rgb(255, 255, 255);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS';
 }
 
 .footer_esquerdo .footer_form input:focus{
@@ -200,7 +200,7 @@ footer .footer_container{
 }
 
 .footer_form button{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS';
     border-radius: 5px;
     border: none;
     background-color: rgb(15,15,109);
@@ -217,7 +217,7 @@ footer .footer_container{
 .footer_direito a{
     color: black;
     text-decoration: none;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans Unicode';
     transition: 0.1s;
 }
 

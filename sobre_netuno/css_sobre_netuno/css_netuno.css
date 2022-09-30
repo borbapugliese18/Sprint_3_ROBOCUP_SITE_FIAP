@@ -20,12 +20,12 @@ body{
 /*--------- */
 
 main .parag_netuno{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS';
     color: #fff;
 }
 
 main h1{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans Unicode';
     color: rgb(228, 153, 41);
 }
 
