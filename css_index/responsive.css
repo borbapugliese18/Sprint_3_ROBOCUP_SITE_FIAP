@@ -615,7 +615,7 @@
 
     footer .footer_container .back_top_parag{
         display: block;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-family: 'Lucida Sans Unicode';
         margin-top: -1rem;
         color: black;
     }
@@ -933,7 +933,7 @@
 
     footer .footer_container .back_top_parag{
         display: block;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-family: 'Lucida Sans Unicode';
         margin-top: -1rem;
         color: black;
     }
