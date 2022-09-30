@@ -18,7 +18,7 @@ Link: https://borbapugliese18.github.io/Sprint_3_ROBOCUP_SITE_FIAP/
   <img src="https://user-images.githubusercontent.com/96325608/193317570-c38170e1-085a-4313-9f22-0b629634ea85.jpg" witdh="0" height="600"> <img src="https://user-images.githubusercontent.com/96325608/193317625-78b3b522-41e1-4906-b9be-7b9e745a5fb8.jpg" witdh="0" height="600">
   
 ## 
-
+<br/>
 ## Fotos (Desktop)
 <img src="https://user-images.githubusercontent.com/96325608/193321809-e7360e54-fab6-4106-b3a6-f5b9b3e1acba.png" witdh="500" height="800"> <img src="https://user-images.githubusercontent.com/96325608/193322022-ccb8ec9a-4887-4b0b-aedd-fbc9dfb04916.png" witdh="500" height="1300"> <img src="https://user-images.githubusercontent.com/96325608/193322127-9678bb31-6392-431c-9551-1df461c5cc65.png" witdh="500" height="1100"> <img src="https://user-images.githubusercontent.com/96325608/193322167-195fa23c-f19b-4dcc-aa7b-ba74ffb018f1.png" witdh="500" height="900">
 
