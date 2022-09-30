@@ -20,7 +20,7 @@ Link: https://borbapugliese18.github.io/Sprint_3_ROBOCUP_SITE_FIAP/
 
 ## ---------------------------- Fotos (Desktop) --------------------------------
 
-### Foto apenas da seção Home.
+Foto apenas da seção Home.
 <img src="https://user-images.githubusercontent.com/96325608/193328246-7f1c8df5-1c3b-470b-8504-9d36513b2ee8.png" witdh="500" height="800"> 
 
 
