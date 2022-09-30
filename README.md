@@ -11,7 +11,7 @@ A partir dessa proposta, todas as matérias propõem trabalhos com relação ao 
 
 Link: https://borbapugliese18.github.io/Sprint_3_ROBOCUP_SITE_FIAP/
 
-![mobile_netuno1](https://user-images.githubusercontent.com/96325608/193316046-aa4eafbe-9fd3-4386-9ac6-1d20c6f844e8.jpg | width=100)
+<img src:"https://user-images.githubusercontent.com/96325608/193316046-aa4eafbe-9fd3-4386-9ac6-1d20c6f844e8.jpg" witdh="200">
 
 
 ## Observações :pencil::
