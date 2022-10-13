@@ -634,6 +634,10 @@
         z-index: 1000;
     }
 
+    .primary_navigation a {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
     .primary_navigation li{
         position: relative;
     }
@@ -754,6 +758,7 @@
         line-height: 1.1;
         margin-bottom: 2rem;
         text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
 
 
@@ -839,6 +844,10 @@
         display: none;
     }
 
+    .footer_direito a{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
     .footer_esquerdo{
         padding: 1.7rem;
     }
@@ -854,7 +863,9 @@
 
     .footer_esquerdo .flex h3{
         font-size: 1.6rem;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
+
 
 
     .footer_redes i{
