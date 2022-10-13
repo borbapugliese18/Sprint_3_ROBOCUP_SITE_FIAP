@@ -9,6 +9,10 @@
         height: 10rem;
     }
 
+    .primary_navigation a {
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+    }
+
     header {
         margin-bottom: 7rem;
     }
