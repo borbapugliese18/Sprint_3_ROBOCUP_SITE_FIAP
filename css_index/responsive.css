@@ -635,7 +635,7 @@
     }
 
     .primary_navigation a {
-        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-family:Arial, Helvetica, sans-serif !important;
     }
 
     .primary_navigation li{
