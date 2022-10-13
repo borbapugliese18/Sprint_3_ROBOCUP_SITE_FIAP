@@ -90,7 +90,7 @@ body{
 .primary_navigation a{
     text-decoration: none;
     color: #fff;
-    font-family: 'Lucida Sans Unicode' !important;
+    font-family: 'Lucida Sans Unicode';
     transition: 0.2s;
 }
 
@@ -123,7 +123,7 @@ body{
 
 .apresentacao h1{
     color: rgb(228, 153, 41);
-    font-family: 'Lucida Sans Unicode' !important;
+    font-family: 'Lucida Sans Unicode';
 }
 
 
@@ -175,7 +175,7 @@ footer .footer_container{
 }
 
 .footer_esquerdo .flex h3{
-    font-family: 'Lucida Sans Unicode' !important;
+    font-family: 'Lucida Sans Unicode';
     color:rgb(15,15,109);
 }
 
@@ -217,7 +217,7 @@ footer .footer_container{
 .footer_direito a{
     color: black;
     text-decoration: none;
-    font-family: 'Lucida Sans Unicode' !important;
+    font-family: 'Lucida Sans Unicode';
     transition: 0.1s;
 }
 
